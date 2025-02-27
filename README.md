@@ -1,4 +1,5 @@
-## Hi there 👋
+## There is Qingyue Chang from Zhili college, 2022.
+#This page includes all notes on bioinfo class.
 
 <!--
 **GAIACinfall/GAIACinfall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
